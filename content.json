@@ -1,46 +1,43 @@
 {
   "hero": {
-    "name1": "TUMELO",
-    "name2": "GAMING",
-    "tagline": "18-year-old gamer & developer who livestreams and plays Minecraft, GTA 5, Fortnite, CODM, and Genshin Impact. I build bots, plugins, mods and other apps — and stream it all(rarely) on Twitch. I also have a lovely girlfriend whom I would give the world to. ❤",
-    "pronouns": "he/him",
+    "name1": "Silent"
+    "tagline": "Hi, I’m Silent, I’m 18 years old. I enjoy making friends and chatting, so my DMs are open as long as you’re respectful. I might seem a bit quiet at first, but once I’m comfortable, I can talk a lot.
+
+I love playing games, especially Minecraft (always open to play), along with Genshin and story-based games. In my free time, I watch anime, and some of my favorite characters are Arlecchino and Skirk from Genshin.",
+    "pronouns": "They/them",
     "skills": [
-      "🎮 MC Mod Developer",
-      "⚙️ Skript Plugin Dev",
-      "🤖 Discord Bot Dev",
-      "📡 Twitch Streamer",
-      "🎵 TikTok Creator",
-      "🔧 Java Modding",
-      "🌐 Web Developer"
+      "🎮 Gamer",
+      "📖 Reader",
+      "</> Coder",
     ],
     "stats": {
-      "servers": "15",
-      "experience": "3+"
+      "servers": "6",
+      "experience": "2+"
     },
     "socials": [
       {
         "id": "twitch",
         "label": "Twitch",
         "url": "https://twitch.tv/Yaboistreem",
-        "enabled": true
+        "enabled": false
       },
       {
         "id": "tiktok",
         "label": "TikTok",
         "url": "https://tiktok.com/@tumelogaming",
-        "enabled": true
+        "enabled": false
       },
       {
         "id": "twitter",
         "label": "Twitter",
         "url": "https://twitter.com/TumeloGaming",
-        "enabled": true
+        "enabled": false
       },
       {
         "id": "youtube",
         "label": "YouTube",
         "url": "https://www.youtube.com/@TumeloGaming",
-        "enabled": true
+        "enabled": false
       }
     ]
   },
